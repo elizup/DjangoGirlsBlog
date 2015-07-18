@@ -1,0 +1,2 @@
+# DjangoGirlsBlog
+Making Django Blogs
